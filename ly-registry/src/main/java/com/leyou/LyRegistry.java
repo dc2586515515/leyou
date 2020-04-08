@@ -9,6 +9,6 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @EnableEurekaServer
 public class LyRegistry {
     public static void main(String[] args) {
-        SpringApplication.run(LyRegistry.class,args);
+        SpringApplication.run(LyRegistry.class, args);
     }
 }

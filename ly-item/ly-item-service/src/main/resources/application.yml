@@ -6,7 +6,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/heima
     username: root
-    password: 123
+    password: dc01
     hikari:
       maximum-pool-size: 30
       minimum-idle: 10
